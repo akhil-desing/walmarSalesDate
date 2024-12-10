@@ -1,5 +1,5 @@
 # walmarSalesDate 
-this dat can be download from kaggle website to apply my knowledge on sql query 
+this data can be download from kaggle website to apply my knowledge on sql query 
 the main aim for that data to extract the trends, value ,totalamount for using data 
 this is a very simple project 
 
